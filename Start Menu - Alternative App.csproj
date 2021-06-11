@@ -1,0 +1,26 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net5.0</TargetFramework>
+    <ApplicationIcon>Icon.ico</ApplicationIcon>
+    <StartupObject />
+    <AssemblyName>Start Menu - Alternative App</AssemblyName>
+    <RootNamespace>Start Menu - Alternative App</RootNamespace>
+    <Authors>Dmitry Britov</Authors>
+    <Company />
+    <Product>Start Menu</Product>
+    <Copyright />
+    <PackageLicenseFile>LICENSE</PackageLicenseFile>
+    <PackageId>DmitryBritov.StartMenuAlternativeApp</PackageId>
+    <Description>This application can be pinned to the taskbar and open the Windows start menu.</Description>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Include="LICENSE">
+      <Pack>True</Pack>
+      <PackagePath></PackagePath>
+    </None>
+  </ItemGroup>
+
+</Project>
