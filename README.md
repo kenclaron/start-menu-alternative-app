@@ -1,4 +1,4 @@
-﻿Start Menu - Alternative App
+﻿Start Menu - Alternative App for Windows 10
 ============================
 
 About
