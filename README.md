@@ -1,5 +1,6 @@
 ﻿Start Menu - Alternative App for Windows 10
 ============================
+[github](https://img.shields.io/github/downloads/kenclaron/start-menu-alternative-app/total.svg)
 
 About
 -----
