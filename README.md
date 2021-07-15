@@ -7,6 +7,8 @@ About
 This application can be pinned to the taskbar and open the Windows Start Menu.
 To get a better quality of use, I recommend using it together with [CenterTaskbar by mdhiggins](https://github.com/mdhiggins/CenterTaskbar)
 
+![Imgur](https://i.imgur.com/V22WzXY.png)
+
 Usage
 --------------------------
 1. Press the Right Mouse Button on the application "Start Menu - Alternative App.exe";
